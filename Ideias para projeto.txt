@@ -1,0 +1,40 @@
+Canil online:
+	roles:
+	  1. Admin - gerir o canil e os utilizadores
+	  2. Utilizador - pesquisar e adotar caes, colocar caes para adoção
+  	  3. Veterinario - Escolhe cães que precisem de tratamentos
+	  4. Gestor - Gerir os prdutos da loja
+
+	Web:
+	  1. Criar anuncios (utilizador)
+	  2. Adotar (utilizador)
+	  3. Escolher animais para tratar (veterinário)
+	  4. Marcar horarios para tratamentos (veterinário)
+	  5. Dar um cão como tratado (veterinário)
+	  6. Encomendar produtos (utilizador)
+	  7. Gerir utilizadores (admin)
+	  8. Gerir produtos (gestor)
+
+	Aplicação:
+	  1. Gerir animais pessoais (CRUD)
+	  2. Visualizar informações uteis
+	  3. Visualizar futuras consultas marcadas pelo veterinário
+	  4. Visualizar horarios e informações (veterinário) 
+	  5. Visualizar encomendas
+	  6. GPS para guiar o veterinário (??)
+
+	Base de dados (10 tabelas) :
+	  1. Utilizadores
+	  2. Perfil de utilizador
+	  3. Caes pessoais
+	  4. Caes para adoção
+	  5. Raças de caes
+	  6. horario do veterinario
+	  7. Encomendas
+	  8. Carrinho
+	  9. Produtos
+	  10. Tipos de Expedição
+
+	Nomes para o sistema:
+	  1. Leiria a Ladrar
+	  2. Fluffies
