@@ -38,3 +38,9 @@ Canil online:
 	Nomes para o sistema:
 	  1. Leiria a Ladrar
 	  2. Fluffies
+	  3. CaniDogs
+	  4. Dog Club
+	  5. Cãopanhia
+
+	Extras:
+	  1. Apresentar os dados do cão em forma de caderneta (aplicação)
