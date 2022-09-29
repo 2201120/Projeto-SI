@@ -44,3 +44,18 @@ Canil online:
 
 	Extras:
 	  1. Apresentar os dados do cão em forma de caderneta (aplicação)
+
+
+Exemplo de sistemas de pontos no questionário:
+
+caes		| 0  -> impetuoso
+pequenos    | 10 -> Guarda
+		| 20 -> Meio termo
+		| 30 -> Brincalhão/desastrado 
+		| 40 -> familia
+
+caes		| 50 -> impetuoso
+grandes     | 60 -> Guarda
+		| 70 -> Meio termo
+		| 80 -> Brincalhão/desastrado 
+		| 90 -> familia 
