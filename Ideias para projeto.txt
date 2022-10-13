@@ -44,6 +44,7 @@ Canil online:
 
 	Extras:
 	  1. Apresentar os dados do cão em forma de caderneta (aplicação)
+	  2. Página de doação
 
 
 Exemplo de sistemas de pontos no questionário:
