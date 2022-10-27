@@ -50,13 +50,18 @@ Canil online:
 Exemplo de sistemas de pontos no questionário:
 
 caes		| 0  -> impetuoso
-pequenos    | 10 -> Guarda
-		| 20 -> Meio termo
-		| 30 -> Brincalhão/desastrado 
-		| 40 -> familia
+pequenos    | 20 -> Guarda
+		| 40 -> Meio termo
+		| 60 -> Brincalhão
+		| 80 -> familia
 
-caes		| 50 -> impetuoso
-grandes     | 60 -> Guarda
-		| 70 -> Meio termo
-		| 80 -> Brincalhão/desastrado 
-		| 90 -> familia 
+caes		| 100 -> impetuoso
+grandes     | 120 -> Guarda
+		| 140 -> Meio termo
+		| 160 -> Brincalhão
+		| 180 -> familia 
+
+Perguntas:
+Prefere cães grandes ou pequenos? sim(+100) não(+0)
+Gosta de brincar com cães?   -> adoro (80) gosto muito(60) gosto(40) de vez em quando (20) não (0)
+Vê um cão como uma boa alternativa a um sistema de segurança?    -> com certeza(0) sim(20) não(60) claro que não(80)
